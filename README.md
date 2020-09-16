@@ -1,2 +1,1 @@
-# ifc-resume
-Build on UCD Resume for IFC module
+# Interactive Frontend Development Mini-Project
